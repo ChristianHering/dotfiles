@@ -1,0 +1,27 @@
+[submodule "development/c/dwm"]
+	path = development/c/dwm
+	url = https://github.com/ChristianHering/dwm
+[submodule "development/go/src/github.com/ChristianHering/Website"]
+	path = development/go/src/github.com/ChristianHering/Website
+	url = https://github.com/ChristianHering/Website
+[submodule "development/go/src/github.com/ChristianHering/Aucht"]
+	path = development/go/src/github.com/ChristianHering/Aucht
+	url = https://github.com/ChristianHering/Aucht
+[submodule "development/go/src/github.com/ChristianHering/GoDSB"]
+	path = development/go/src/github.com/ChristianHering/GoDSB
+	url = https://github.com/ChristianHering/GoDSB
+[submodule "development/go/src/github.com/ChristianHering/GoEssentials"]
+	path = development/go/src/github.com/ChristianHering/GoEssentials
+	url = https://github.com/ChristianHering/GoEssentials
+[submodule "development/go/src/github.com/ChristianHering/p2pm"]
+	path = development/go/src/github.com/ChristianHering/p2pm
+	url = https://github.com/ChristianHering/p2pm
+[submodule "development/go/src/github.com/ChristianHering/p2pm-bootstrap"]
+	path = development/go/src/github.com/ChristianHering/p2pm-bootstrap
+	url = https://github.com/ChristianHering/p2pm-bootstrap
+[submodule "development/go/src/github.com/ChristianHering/p2pm-cli"]
+	path = development/go/src/github.com/ChristianHering/p2pm-cli
+	url = https://github.com/ChristianHering/p2pm-cli
+[submodule "development/go/src/github.com/ChristianHering/uSuite"]
+	path = development/go/src/github.com/ChristianHering/uSuite
+	url = https://github.com/ChristianHering/uSuite

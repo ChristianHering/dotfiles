@@ -1,0 +1,18 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# Root Partition
+PARTUUID=035a2ce5-6a39-a543-b3da-349880d3b239	/         	ext4      	rw,relatime	0 1
+
+# EFI Partition
+PARTUUID=b7893aca-d4ca-cd46-9b26-50ee1ca9bc1a	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# Swap Partition
+PARTUUID=c03a0753-3cbf-844b-9745-77e2b54eb90c	none      	swap      	sw  		0 0
+
+# Files Partition
+PARTUUID=0b1d5e65-d72f-d44a-8859-02156af1b066	/media/files	ext4	rw,relatime	0 2
+
+# root -> / 'symlink'
+/	/home/administrator/root	none	defaults,bind	0 0
