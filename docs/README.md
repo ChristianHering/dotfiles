@@ -20,11 +20,6 @@ About
 
 Dotfiles are user configuration files found in your home folder under the hidden directories of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html). I've also looped in system configuration files (commonly found in /etc) in this repository via a ~/root -> / mount which can be found in [/etc/fstab](../root/etc/fstab).
 
-You may want to add the following git configuration options if you're using [ZSH](https://www.zsh.org/):
-
-  * `git config --add oh-my-zsh.hide-status 1`
-  * `git config --add oh-my-zsh.hide-dirty 1`
-
 Compiling from Source
 ------------
 
