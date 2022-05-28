@@ -3,7 +3,7 @@
 EDITOR=nano
 TERMINAL=alacritty
 BROWSER=librewolf
-ALT_BROWSER=firefox
+ALT_BROWSER=brave
 
 #XDG Home Dir Stuff
 
@@ -54,4 +54,5 @@ ERRFILE="$XDG+CACHE_HOME/X11/xsession-errors"
 #XAUTHORITY="$XDG_RUNTIME_DIR"/Xauthority
 
 ZDOTDIR="$HOME"/.config/zsh
+ZSH_CUSTOM="$ZDOTDIR"/OhMyZshCustom
 HISTFILE="$XDG_STATE_HOME"/zsh/history
