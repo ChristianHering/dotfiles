@@ -8,6 +8,12 @@ alias gitdf="/usr/bin/git --git-dir=$HOME/development/other/dotfiles --work-tree
 
 alias startx="startx $XINITRC"
 
+# ZSH Git Tab Completion Fix - https://stackoverflow.com/a/9810485
+
+__git_files () { 
+    _wanted files expl 'local files' _files     
+}
+
 # OhMyZSH! Config
 
 # If you come from bash you might have to change your $PATH.
