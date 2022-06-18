@@ -16,3 +16,6 @@ PARTUUID=0b1d5e65-d72f-d44a-8859-02156af1b066	/media/files	ext4	rw,relatime	0 2
 
 # root -> / 'symlink'
 /	/home/administrator/root	none	defaults,bind	0 0
+
+# NAS Server
+sftp@10.10.10.25:/	/media/nas	fuse.sshfs	defaults	0 0
