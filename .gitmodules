@@ -1,33 +1,33 @@
 [submodule "development/c/dwm"]
 	path = development/c/dwm
-	url = https://github.com/ChristianHering/dwm
+	url = git@github.com:ChristianHering/dwm.git
 [submodule "development/go/src/github.com/ChristianHering/Website"]
 	path = development/go/src/github.com/ChristianHering/Website
-	url = https://github.com/ChristianHering/Website
+	url = git@github.com:ChristianHering/Website.git
 [submodule "development/go/src/github.com/ChristianHering/Aucht"]
 	path = development/go/src/github.com/ChristianHering/Aucht
-	url = https://github.com/ChristianHering/Aucht
+	url = git@github.com:ChristianHering/Aucht.git
 [submodule "development/go/src/github.com/ChristianHering/GoDSB"]
 	path = development/go/src/github.com/ChristianHering/GoDSB
-	url = https://github.com/ChristianHering/GoDSB
+	url = git@github.com:ChristianHering/GoDSB.git
 [submodule "development/go/src/github.com/ChristianHering/GoEssentials"]
 	path = development/go/src/github.com/ChristianHering/GoEssentials
-	url = https://github.com/ChristianHering/GoEssentials
+	url = git@github.com:ChristianHering/GoEssentials.git
 [submodule "development/go/src/github.com/ChristianHering/p2pm"]
 	path = development/go/src/github.com/ChristianHering/p2pm
-	url = https://github.com/ChristianHering/p2pm
+	url = git@github.com:ChristianHering/p2pm.git
 [submodule "development/go/src/github.com/ChristianHering/p2pm-bootstrap"]
 	path = development/go/src/github.com/ChristianHering/p2pm-bootstrap
-	url = https://github.com/ChristianHering/p2pm-bootstrap
+	url = git@github.com:ChristianHering/p2pm-bootstrap.git
 [submodule "development/go/src/github.com/ChristianHering/p2pm-cli"]
 	path = development/go/src/github.com/ChristianHering/p2pm-cli
-	url = https://github.com/ChristianHering/p2pm-cli
+	url = git@github.com:ChristianHering/p2pm-cli.git
 [submodule "development/go/src/github.com/ChristianHering/uSuite"]
 	path = development/go/src/github.com/ChristianHering/uSuite
-	url = https://github.com/ChristianHering/uSuite
+	url = git@github.com:ChristianHering/uSuite.git
 [submodule ".config/zsh/oh-my-zsh"]
 	path = .config/zsh/oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
+	url = git@github.com:ohmyzsh/ohmyzsh.git
 [submodule ".config/zsh/OhMyZshCustom"]
 	path = .config/zsh/OhMyZshCustom
-	url = https://github.com/ChristianHering/OhMyZshCustom
+	url = git@github.com:ChristianHering/OhMyZshCustom.git
