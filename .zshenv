@@ -23,7 +23,8 @@ FFMPEG_DATADIR="$XDG_CONFIG_HOME"/ffmpeg
 
 GNUPGHOME="$XDG_DATA_HOME"/gnupg
 
-GOPATH="$XDG_DATA_HOME"/home/administrator/development/go
+GOPATH="$HOME"/development/go
+GOBIN="$GOPATH"/bin
 
 IPFS_PATH="$XDG_DATA_HOME"/ipfs
 
